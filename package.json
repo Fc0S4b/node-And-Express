@@ -12,7 +12,6 @@
         "start": "node server.js"
     },
     "engines": {
-        "node": "16.x",
-        "npm": "8.1.2"
+        "node": "16.x"
     }
 }
